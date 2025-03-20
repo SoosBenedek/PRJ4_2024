@@ -1,12 +1,46 @@
 @charset "utf-8";
 
+.barrio-regular {
+  font-family: "Barrio", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
 
-.changecolor{
-    color: #360FEB;
-    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;	
-} 
 
-.tilebg{
-    background-image: url(../images/background2.png);
-    background-repeat: repeat;	
+.myboxtoto {
+    width: 233px;
+    height: 260px;
+    background-color: #C41012;
+    margin-top: -2px;
+    margin-bottom: 20px;
+    margin-right: 16px;
+    margin-left: 120px;
+}
+
+.myboxtoto2 {
+    width: 233px;
+    height: 260px;
+    background-color: #0F25C4;
+}
+
+.navbar-brand {
+	  background-color: #0F25C4;
+}
+
+.container-fluid {
+	background-color: #4356E7;
+}
+
+.benia {
+    background-color: #4356E7;
+    
+}
+.benib {
+	background-color: #3A7537;
+}
+.benic {
+	background-color: #7DD66D;
+}
+.benid {
+	background-color: #124013;
 }
